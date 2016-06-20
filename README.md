@@ -1,5 +1,5 @@
 # Sistema IFRS demandas
-Sistema de envio e respostas de demandas, desenvolvido para fins educaionais.
-Com base numa solicitação partindo de professores e servidores do Instituto, fora desenvolvido o sistema, com a finalidade de atender toda e qualquer pessoa (física ou jurídica), que necessitasse de auxílio da instituição.
-Consiste em uma solicitação enviada pelo necessitado, que, assim que recebida, informa o administrador via email. Esse, encaminha a solicitação para uma área específica de estudo da instituição (ensino, pesquisa ou extensão), que por sua vez, é notificada via email e novamente encaminha para algum responsável avaliar a viabilidade de resolução.
+Sistema de envio e respostas de demandas, desenvolvido para fins educaionais.<br>
+Com base numa solicitação partindo de professores e servidores do Instituto, fora desenvolvido o sistema, com a finalidade de atender toda e qualquer pessoa (física ou jurídica), que necessitasse de auxílio da instituição.<br>
+Consiste em uma solicitação enviada pelo necessitado, que, assim que recebida, informa o administrador via email. Esse, encaminha a solicitação para uma área específica de estudo da instituição (ensino, pesquisa ou extensão), que por sua vez, é notificada via email e novamente encaminha para algum responsável avaliar a viabilidade de resolução.<br>
 Se a solicitação for aceita pelo responsável, o necessitado é informado que sua solicitação será atendida e que receberá algum contato para agendamento de horário com a instituição. Caso contrário, a solicitação é novamente encaminhada para outro servidor/área específica até que se determine que não há como atendê-la, assim, avisa-se o necessitado via email e se encerra a solicitação. 
