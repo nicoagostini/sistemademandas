@@ -1,0 +1,47 @@
+.navbar{
+	background: url(capa.png);
+}
+ul li a{
+	color: white;
+}
+h2{
+	text-align: center;
+}
+ul li #titulo{
+	color: white;
+	font-size: 12em;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+img{
+	width: 20em;
+}
+
+form{
+	text-align: center;
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 5%;
+}
+
+#singlebutton{
+	background-color: green;
+}
+
+.demandanegada{
+	text-align: left;
+	margin-left: 100px;
+	width: 500px;
+}
+
+a, a:hover{
+	color: white;
+	text-decoration: none;
+}
+
